@@ -1,0 +1,9 @@
+8
+loop 4
+print pau
+loop 10
+print jayson
+close
+close
+print hello
+print yikai

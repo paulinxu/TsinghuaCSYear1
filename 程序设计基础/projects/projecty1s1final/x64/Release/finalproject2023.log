@@ -1,0 +1,5 @@
+﻿LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+ojtesting.obj : error LNK2005: "bool __cdecl check(int,int * const,class std::vector<int,class std::allocator<int> >)" (?check@@YA_NHQEAHV?$vector@HV?$allocator@H@std@@@std@@@Z) already defined in game.obj
+ojtesting.obj : error LNK2005: main already defined in game.obj
+MSVCRT.lib(exe_winmain.obj) : error LNK2019: unresolved external symbol WinMain referenced in function "int __cdecl __scrt_common_main_seh(void)" (?__scrt_common_main_seh@@YAHXZ)
+C:\Users\Pau Tong Lin Xu\Desktop\CPPProjects\projects\projecty1s1final\x64\Release\finalproject2023.exe : fatal error LNK1120: 1 unresolved externals

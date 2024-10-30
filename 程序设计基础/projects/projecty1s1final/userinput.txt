@@ -1,0 +1,12 @@
+Instructions:
+- The first line should contain the total number of commands
+- Enter the command number + ' ' + argument
+- If the command requires no argument, fill 0 in the argument spot
+
+ENTER_COMMANDS_BELOW:
+5
+0 0
+4 0
+0 0
+2 0
+1 0

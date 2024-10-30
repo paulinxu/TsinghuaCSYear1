@@ -1,0 +1,23 @@
+16
+create button b1
+create button b1
+create button b2
+create checkbox c1
+create checkbox c2
+create checkbox c3
+setclick b1 clear 2 c1 c2
+setdoubleclick b1 select 2 c2 c3
+setclick b2 submit 3 c1 c2 c3
+doubleclick b1
+doubleclick b1
+doubleclick b1
+click b1
+click b1
+click b1
+click b2
+
+4
+create button b1
+create button b1
+click b1
+click b1

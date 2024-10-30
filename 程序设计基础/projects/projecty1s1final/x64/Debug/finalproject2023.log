@@ -1,0 +1,7 @@
+﻿  game.cpp
+  ojtesting.cpp
+  tempCodeRunnerFile.cpp
+  testing.cpp
+  Generating Code...
+C:\Users\Pau Tong Lin Xu\Desktop\CPPProjects\projects\projecty1s1final\tempCodeRunnerFile.cpp(2,1): error C2059: syntax error: '}'
+C:\Users\Pau Tong Lin Xu\Desktop\CPPProjects\projects\projecty1s1final\tempCodeRunnerFile.cpp(2,1): error C2143: syntax error: missing ';' before '}'
